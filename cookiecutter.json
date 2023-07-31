@@ -1,0 +1,12 @@
+{
+    "project_name": "Cookiecutter Website Simple",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Name of the Author",
+    "author_email": "Email of the author",
+    "year": "2023",
+    "description": "One line description",
+    "repository_url": "url of the repository",
+    "docs_url": "URL of the documentation",
+    "twitter": "Twitter url",
+    "_copy_without_render": ["*.yml"]
+  }

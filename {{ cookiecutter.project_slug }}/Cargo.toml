@@ -1,0 +1,12 @@
+[package]
+name = "{{ cookiecutter.project_name }}"
+version = "0.1.0"
+edition = "2021"
+authors = [{{ cookiecutter.author_name }}"<{{ cookiecutter.author_email }}>"]
+description = "a simple command line tool to list frame sequence in friendly way"
+readme = "README.md"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
