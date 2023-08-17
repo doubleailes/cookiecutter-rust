@@ -10,6 +10,6 @@
   "twitter": "Twitter url",
   "_copy_without_render": [
     "*.yml",
-    "math-typesetting.md"
+    "*math-typesetting.md"
   ]
 }
